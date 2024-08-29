@@ -4,7 +4,7 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
+  AiFillYoutube,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -23,8 +23,13 @@ function Home2() {
               <br />
               <br />& now I'm a passionate web developer with expertise in
               <i>
-                <b className="purple"> Front End Web development & custom shopify development </b>.
+                <b className="purple">Front End   </b>
               </i>
+              Web development and Custom
+              <i>
+                <b className="purple"> Shopify </b>
+              </i>
+              store development.
               <br />
               <br />
               My field of Interest's are building
@@ -32,22 +37,22 @@ function Home2() {
                 <b className="purple"> user-friendly websites and E-commerce stores </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  AI.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Whenever possible, I  apply my passion for web development to build full stack projects using
+               <b className="purple"></b>
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  MERN Stack 
                 </b>
               </i>
-              &nbsp; like
+              {/* &nbsp; like currently i am working on my */} and other
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Modern web technologies </b>
               </i>
             </p>
           </Col>
@@ -66,7 +71,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/ahmar46"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,17 +81,17 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://www.youtube.com/@electrifyingcodes"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
-                  <AiOutlineTwitter />
+                  <AiFillYoutube />
                 </a>
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/ahmar46"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -96,7 +101,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/electrifyingcodes"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
