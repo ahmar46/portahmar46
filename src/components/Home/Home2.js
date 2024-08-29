@@ -19,18 +19,17 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming at the age of 12 when i wrote my first Hello World in C++
               <br />
-              <br />I am fluent in classics like
+              <br />& now I'm a passionate web developer with expertise in
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Front End Web development & custom shopify development </b>.
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are building
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple"> user-friendly websites and E-commerce stores </b> and
                 also in areas related to{" "}
                 <b className="purple">
                   Blockchain.
