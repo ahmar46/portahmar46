@@ -32,10 +32,10 @@ function Home2() {
               store development.
               <br />
               <br />
-              My field of Interest's are building
+              My field of Interests are building
               <i>
                 <b className="purple"> user-friendly websites and E-commerce stores </b> and
-                also in areas related to{" "}
+                also areas related to{" "}
                 <b className="purple">
                   AI.
                 </b>
