@@ -52,7 +52,7 @@ function Home2() {
               </i>
               {/* &nbsp; like currently i am working on my */} and other
               <i>
-                <b className="purple"> Modern web technologies </b>
+                <b className="purple"> Modern Web Technologies </b>
               </i>
             </p>
           </Col>
