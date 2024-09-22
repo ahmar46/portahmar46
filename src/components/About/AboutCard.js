@@ -12,8 +12,7 @@ function AboutCard() {
             web developer, <span className="purple"> content </span> creator & an <span className="purple"> entrepreneur </span> proudly serving clients from the bustling streets of <span className="purple"> India's capital city </span>
             <br />
             <br />
-            <br />
-            My specialty is building <span className="purple"> user-friendly websites and E-commerce stores</span>.
+            My specialty is building user-friendly <span className="purple">  websites </span>and<span className="purple">  E-commerce </span>stores.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
