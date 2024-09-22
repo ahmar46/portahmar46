@@ -9,13 +9,16 @@ import {
   DiGit,
   DiHtml5,
   DiCss3,
-  DiGithub
+  DiGithub,
 } from "react-icons/di";
 import {
   SiFirebase,
   SiNextdotjs,
   SiPostgresql,
-  SiVuedotjs
+  SiVuedotjs,
+  SiTailwindcss,
+  SiBootstrap,
+  SiMarkdown,
 } from "react-icons/si";
 
 function Techstack() {
@@ -29,6 +32,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiCss3 />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiBootstrap />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />
@@ -49,13 +58,13 @@ function Techstack() {
         <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiMarkdown />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGithub />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostgresql />
