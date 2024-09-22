@@ -8,12 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            My name is <span className="purple"> Ahmar Ali Khan </span>
-            & i am from <span className="purple"> the capital city of India.</span>
+            I am a <span className="purple"> Front End </span>
+            web developer, <span className="purple"> content </span> creator & an <span className="purple"> entrepreneur </span> proudly serving clients from the bustling streets of <span className="purple"> India's capital city </span>
             <br />
             <br />
-            I am a Front End web developer, content creator & an entrepreneur
-            proudly serving clients from the bustling streets of India's capital city.
             <br />
             My specialty is building <span className="purple"> user-friendly websites and E-commerce stores</span>.
             <br />
