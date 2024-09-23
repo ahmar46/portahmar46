@@ -18,7 +18,6 @@ import {
   SiVuedotjs,
   SiTailwindcss,
   SiBootstrap,
-  SiMarkdown,
 } from "react-icons/si";
 
 function Techstack() {
