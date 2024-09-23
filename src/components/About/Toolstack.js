@@ -5,7 +5,6 @@ import {
   SiWindows,
   SiCanva,
   SiFigma,
-  SiSlack,
   SiVercel,
   SiNetlify,
   SiWordpress,
