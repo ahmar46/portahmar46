@@ -58,7 +58,7 @@ function Techstack() {
         <SiNextdotjs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMarkdown />
+        <SiFirebase />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />
