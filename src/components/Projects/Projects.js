@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import charcount from "../../Assets/Projects/charcount.png";
 import FireGram from "../../Assets/Projects/FireGram.png";
 import Loruki from "../../Assets/Projects/Loruki.png";
+import CDC from "../../Assets/Projects/cdc.png";
 
 function Projects() {
   return (
@@ -38,18 +39,18 @@ function Projects() {
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
-          </Col>
+          </Col> */}
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={CDC}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="Crep Dog Crew"
+              description="Developed a fully customized Shopify store for Crepdogcrew, focusing on creating a user-friendly shopping experience with optimized performance, responsive design, and seamless integrations for payment gateways and inventory management."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://crepdogcrew.com/"              
             />
-          </Col> */}
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
