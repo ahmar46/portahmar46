@@ -51,6 +51,28 @@ function Projects() {
               demoLink="https://crepdogcrew.com/"              
             />
           </Col>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CDC}
+              isBlog={false}
+              title="Crep Dog Crew"
+              description="Developed a fully customized Shopify store for Crepdogcrew, focusing on creating a user-friendly shopping experience with optimized performance, responsive design, and seamless integrations for payment gateways and inventory management."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://crepdogcrew.com/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={CDC}
+              isBlog={false}
+              title="Crep Dog Crew"
+              description="Developed a fully customized Shopify store for Crepdogcrew, focusing on creating a user-friendly shopping experience with optimized performance, responsive design, and seamless integrations for payment gateways and inventory management."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              demoLink="https://crepdogcrew.com/"              
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
