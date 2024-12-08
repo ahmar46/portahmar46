@@ -6,6 +6,7 @@ import charcount from "../../Assets/Projects/charcount.png";
 import FireGram from "../../Assets/Projects/FireGram.png";
 import Loruki from "../../Assets/Projects/Loruki.png";
 import CDC from "../../Assets/Projects/cdc.png";
+import stepartsole from "../../Assets/Projects/stepartsole.png"
 
 function Projects() {
   return (
@@ -41,7 +42,7 @@ function Projects() {
             />
           </Col> */}
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               imgPath={CDC}
               isBlog={false}
@@ -50,16 +51,16 @@ function Projects() {
               // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://crepdogcrew.com/"              
             />
-          </Col>
+          </Col> */}
           
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={CDC}
+              imgPath={stepartsole}
               isBlog={false}
               title="StepArtSole"
               description="lorem ipsum hgsdfhgsdhjfgsdhj"
               // ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://crepdogcrew.com/"              
+              demoLink="https://stepartsole.in/"              
             />
           </Col>
 
