@@ -58,7 +58,7 @@ function Projects() {
               imgPath={stepartsole}
               isBlog={false}
               title="StepArtSole"
-              description="lorem ipsum hgsdfhgsdhjfgsdhj"
+              description="Designed and developed a fully functional e-commerce website from scratch using Wix Studio. The project involved creating a seamless user interface, integrating shopping cart functionality, and optimizing the site for mobile responsiveness. Delivered a visually appealing and user-friendly experience tailored for online retail."
               // ghLink="https://github.com/soumyajit4419/Editor.io"
               demoLink="https://stepartsole.in/"              
             />
