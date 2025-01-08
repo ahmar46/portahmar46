@@ -16,11 +16,11 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              MY <span className="purple"> BACK STORY </span>
             </h1>
             <p className="home-about-body">
               I fell in love with programming at the age of 12 when i wrote my first Hello World in C++
-              <br />
+              {/* <br />
               <br />& now I'm a passionate web developer with expertise in
               <i>
                 <b className="purple">Front End   </b>
@@ -30,7 +30,7 @@ function Home2() {
                 <b className="purple"> Shopify </b>
               </i>
               store development.
-              <br />
+              <br /> */}
               <br />
               My field of Interests are building
               <i>
@@ -42,17 +42,17 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I  apply my passion for web development to build full stack projects using
+              Whenever possible, I love to create high quality tech content for my social media mainly
                <b className="purple"></b>
               <i>
                 <b className="purple">
                   {" "}
-                  MERN Stack 
+                  Instagram,
                 </b>
               </i>
-              {/* &nbsp; like currently i am working on my */} and other
+              {/* &nbsp; like currently i am working on my */}
               <i>
-                <b className="purple"> Modern Web Technologies </b>
+                <b className="purple"> Youtube & Linkedin </b>
               </i>
             </p>
           </Col>
